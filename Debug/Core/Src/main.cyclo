@@ -1,0 +1,12 @@
+../Core/Src/main.c:86:5:main	2
+../Core/Src/main.c:180:6:SystemClock_Config	3
+../Core/Src/main.c:217:13:MX_TIM4_Init	4
+../Core/Src/main.c:262:13:MX_GPIO_Init	1
+../Core/Src/main.c:286:6:AccessSharedData	2
+../Core/Src/main.c:308:8:SimulateReadWriteOperation	2
+../Core/Src/main.c:326:6:StartDefaultTask	1
+../Core/Src/main.c:344:6:GreenTask	1
+../Core/Src/main.c:375:6:RedTask	1
+../Core/Src/main.c:405:6:OrangeTask	1
+../Core/Src/main.c:421:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:431:6:Error_Handler	1

@@ -3,7 +3,7 @@ contention in a selective manner - using a semaphore
 to protect the critical code section
 
 
-This project demonstrates the use of FreeRTOS Semaphores for synchronization between multiple tasks in a multitasking system. The program focuses on how semaphores can manage the execution order of tasks, specifically in controlling the behavior of LEDs on the STM32F401CCU6.
+This project demonstrates the use of FreeRTOS Semaphores for synchronization between multiple tasks in a multitasking system. The program focuses on how semaphores can manage the execution order of tasks, specifically in controlling the behavior of LEDs on the STM32F103C8T6.
 
 Diagram Task:
 
